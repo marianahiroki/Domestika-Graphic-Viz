@@ -28,7 +28,7 @@ It took me a lot of time to choose data from reports. Then I finally found a lea
   
 ![Instagram Post – 9](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/fcbde384-a790-46dd-8d57-6e8fabe8f67e)
 ![Instagram Post – 10](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/f7d20f1d-7f20-494e-ae72-511a758e6319)
-![Instagram Post – 11](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/d9bc9b5b-81b2-48f7-aa39-ed1a34063e11)
+![Instagram Post – 11](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/6307da5b-43a0-444d-a996-d89780dfccb3)
 ![Instagram Post – 12](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/b1a49781-0b7d-4a6d-9472-0604b919a80c)
 
 
