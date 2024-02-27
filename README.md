@@ -10,10 +10,7 @@ I chose the quote from Confucius: "It does not matter how slowly you go as long 
 - Although progress may be slow, it is organic, akin to a heart monitor, with its highs and lows.
 - It is also possible to backtrack multiple times to get back on track and achieve what is wanted.
 
-![Instagram Post – 5](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/4e8f8e9f-503b-4ad6-a935-bd21e628f8eb)
-![Instagram Post – 6](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/5085149b-10db-4ead-b8fa-810d419579cd)
-![Instagram Post – 7](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/b4d013e7-5f4e-4cf9-aa65-5886a7f8ec31)
-![Instagram Post – 8](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/da5efc47-b9d8-4814-8c83-cebd0f09ca22)
+![Instagram Post – 5](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/4e8f8e9f-503b-4ad6-a935-bd21e628f8eb)![Instagram Post – 6](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/5085149b-10db-4ead-b8fa-810d419579cd)![Instagram Post – 7](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/b4d013e7-5f4e-4cf9-aa65-5886a7f8ec31)![Instagram Post – 8](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/da5efc47-b9d8-4814-8c83-cebd0f09ca22)
 
 
 
