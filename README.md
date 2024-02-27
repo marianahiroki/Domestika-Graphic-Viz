@@ -10,7 +10,13 @@ I chose the quote from Confucius: "It does not matter how slowly you go as long 
 - Although progress may be slow, it is organic, akin to a heart monitor, with its highs and lows.
 - It is also possible to backtrack multiple times to get back on track and achieve what is wanted.
 
-<img width="639" alt="image" src="https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/33d65b11-9e2c-4b07-a941-9c55db8ff36a">
+![Instagram Post – 5](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/4e8f8e9f-503b-4ad6-a935-bd21e628f8eb)
+![Instagram Post – 6](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/5085149b-10db-4ead-b8fa-810d419579cd)
+![Instagram Post – 7](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/b4d013e7-5f4e-4cf9-aa65-5886a7f8ec31)
+![Instagram Post – 8](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/da5efc47-b9d8-4814-8c83-cebd0f09ca22)
+
+
+
 
 I chose the Adobe XD software to try, as I have used Photoshop, Illustrator, and InDesign for so long. It is a bit different but works better to produce social media content.
 
@@ -23,6 +29,10 @@ It took me a lot of time to choose data from reports. Then I finally found a lea
 - For the first image, a bar chart would be the best recommendation for comparison between men and women.
 - For the others, a pie chart would be recommended, but to make it a bit different, I zoomed in so it is not possible to see the edges of these pie charts.
   
-<img width="636" alt="image" src="https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/04d8758a-d4d9-4f98-9027-847bcdac6cb7">
+![Instagram Post – 9](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/fcbde384-a790-46dd-8d57-6e8fabe8f67e)
+![Instagram Post – 10](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/f7d20f1d-7f20-494e-ae72-511a758e6319)
+![Instagram Post – 11](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/d9bc9b5b-81b2-48f7-aa39-ed1a34063e11)
+![Instagram Post – 12](https://github.com/marianahiroki/Domestika-Graphic-Viz/assets/110165879/b1a49781-0b7d-4a6d-9472-0604b919a80c)
+
 
 
